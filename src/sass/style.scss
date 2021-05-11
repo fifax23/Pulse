@@ -8,6 +8,19 @@
     margin: 0 auto;
 }
 
+.menu {
+    display: none;
+}
+
+.hamburger {
+    display: none
+}
+
 @import 'blocks/promo';
 @import 'blocks/_header';
 @import 'blocks/_buttons';
+@import 'blocks/advantages';
+@import 'blocks/title';
+@import 'blocks/media';
+@import 'blocks/consultation';
+@import 'blocks/forms';
