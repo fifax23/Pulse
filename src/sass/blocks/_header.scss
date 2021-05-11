@@ -9,9 +9,9 @@
         }
     }
     &__official {
-        color: #ffffff;
         font-size: 12px;
         font-weight: 500;
+        color: #ffffff;
         text-align: center;
         span {
             display: block;
@@ -20,11 +20,11 @@
     }
     &__phone {
         display: block;
-        color: #ffffff;
         font-size: 18px;
         font-weight: 700;
+        color: #ffffff;
         &:hover {
-            color: #fff;
+            color: #ffffff;
             text-decoration: none;
         }
     }
